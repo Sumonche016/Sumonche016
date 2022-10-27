@@ -2,7 +2,7 @@
 #### Mern Stack Developer | Front-end expert
 ![Mern Stack Developer | Front-end expert](https://media-exp1.licdn.com/dms/image/D5616AQGucDNUSkesoA/profile-displaybackgroundimage-shrink_350_1400/0/1665989489332?e=1672272000&v=beta&t=Z3AIMfQBEfA4hxVblFYrLFIxMmd8x3xWe6Fzczmu1Oo)
 
-a Self-motivated web developer, passionate at work, and most eager to learn. Try to comply with the
+A Self-motivated web developer, passionate at work, and most eager to learn. Try to comply with the
 deadlines while keeping quality issues in mind. Proficient with Javascript-based frameworks along
 with HTML and CSS.
 

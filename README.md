@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react js . view js, next js,chrome extension, frontend developement, backend developement**
 
-- 📫 How to reach me **sumonche016@g,ail.com**
+- 📫 How to reach me **sumonche016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

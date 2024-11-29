@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently learning **Python , Machine Learning,BlockChain and Web3**
 
-- 💬 Ask me about **react js . view js, next js,chrome extension, frontend developement ,backend development**
+- 💬 Ask me about **react js . view js, next js,chrome extension, frontend developement, backend developement**
 
 - 📫 How to reach me **sumonche016@g,ail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sumonche016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumonche016" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-sumon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-sumon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14639406/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14639406/" height="30" width="40" /></a>
 <a href="https://fb.com/djsmn32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="djsmn32" height="30" width="40" /></a>
 <a href="https://instagram.com/s.sumon99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.sumon99" height="30" width="40" /></a>

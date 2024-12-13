@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python , Machine Learning,BlockChain and Web3**
 
-- 💬 Ask me about **react js . view js, next js,chrome extension, frontend developement, backend developement**
+- 💬 Ask me about **react js,next js ,node js ,chrome extension, frontend developement, backend developement**
 
 - 📫 How to reach me **sumonche016@gmail.com**
 
